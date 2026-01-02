@@ -23,7 +23,7 @@
           :class="{ 'hidden': isCollapsed }"
           @click.native="resetCategory"
         >
-          AI&tool导航
+          AI&tools导航
         </router-link>
       </div>
 
