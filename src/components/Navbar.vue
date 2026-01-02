@@ -58,7 +58,7 @@
       </router-link>
       <!-- 新增GitHub图标 -->
       <a 
-        href="https://github.com/jianzhugo/Simple-Nav" 
+        href="https://github.com/wdrma2010/Aiweb" 
         target="_blank"
         class="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
       >
